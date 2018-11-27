@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Edith Iyer-Hernandez
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Edith is enthusiastic about all things data science, with a background in chemistry and educational non-profit programming. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[edithiyerhernandez@gmail.com](mailto:edithiyerhernandez@gmail.com)
